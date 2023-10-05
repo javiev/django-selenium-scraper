@@ -1,0 +1,12 @@
+# IDE and editor files
+/.idea
+*.iml
+/.vscode
+*.sw*
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
